@@ -1,8 +1,8 @@
 # Opis generatora losowej sieci przepływowej
 ## Zadanie 1 - Zestaw 5
 
-### Autor: [Imię Nazwisko]
-### Data: [Data]
+### Autor: K4
+### Data: 27.05.2025
 
 ---
 
